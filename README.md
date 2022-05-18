@@ -6,6 +6,8 @@
 
 En este proyecto estaremos trabajando con 5 planillas csv donde se podran realizar las consultass de los materiales que tenemos en stock y ademas ir creando una planilla de compras. En esta plnailla de compras el programa nos brindara a que proveedor le tendriamos que comprar dicho producto por tener  el preco mas bajo. Una breve de scripcion de la splnillas que utiliza el programa:
 
+![Planillas](/Imagenes/Planillas.jpg)
+
 Planilla **stock.csv**: en esta planilla tenemos la informacion de los materiales que contamos en stock y el dato de las cantidades que hay en stock de cada material. Esta planilla contiene una columna que se llama **Codigo Interno** que tambien se repite en las plniallas de los **proveedres.csv**, y este es el dato que vincula todas las planillas. 
 
 Planillas **Proveedre.csv**: en estas plniallas encontraremos todos los productos con el mismo **codigo Interno** que se enceuntra dentro de la planilla **stock.csv**, ademas el **precio** y el nombre del **proveedor**.
