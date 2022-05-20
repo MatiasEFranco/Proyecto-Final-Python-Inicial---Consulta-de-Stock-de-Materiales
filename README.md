@@ -39,7 +39,7 @@ En la primera opción **A** **"Realizar consultas"**  vamos a tener 4 opcines:
 
 
   - 2- poder realizar una consulta de un material especifico, en caso de que el material no cuente con una cantidad mayor a "0" en la planilla **"stock.csv"** el            programa le indicara si lo quiere agregar a la planilla de **"compras.csv"** y le pedira que cantidad desea comprar
-  - 
+   
   - 3- poder consultar los materiales a comprar, se generaría un archivo **compras.csv**  sin el agregado de los proveedores aun
 
      ![mcomprar](/Imagenes/mcomprar.jpg)
