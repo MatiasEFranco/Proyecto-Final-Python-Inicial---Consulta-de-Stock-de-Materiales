@@ -29,9 +29,16 @@ En la pagina principal el usuario podra seleccion las sigueintes 2 opcines:
   
 ![Opcines](/Imagenes/Opcines.jpg)
 
-En la primera opción **"consulta de stock"**  vamos a tener 3 cónsulas:
+En la primera opción **A** **"Realizar consultas"**  vamos a tener 4 opcines:
 
-  - poder consultar la planilla completa con el stock de cada material
-  - poder realizar una consulta de un material especifico
-  - poder consultar los materiales a comprar, se generaría un archivo compra.csv de compra sin ela gregado de los proveedores aun
+![ConsultasA](/Imagenes/ConsultasA.jpg)
+
+  1- poder consultar la planilla completa con el stock de cada material
+  2- poder realizar una consulta de un material especifico
+  3- poder consultar los materiales a comprar, se generaría un archivo compra.csv de compra sin ela gregado de los proveedores aun
+  4- volver atras
+
+En la segunda opción **B** **"Compras"**  se se completa el archivo **compra.csv** generado en la consulta para indicar que materiales se desean comprar y compara el precio de estos materiales en cada planilla de los proveedores cargados e indica a que proveedor conviene comprar el material porque tiene el precio mas bajo. Se completan los campos faltantes en el archivo **compras.csv** que son **"Proveedor"**, **"Precio Unitario"** y **"precio Toal"**
+
+![compras](/Imagenes/compras.jpg)
 
