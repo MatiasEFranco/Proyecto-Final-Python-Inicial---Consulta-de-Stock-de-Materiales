@@ -27,7 +27,11 @@ En esta planilla se van guardando los productos que nosotros queremos comprar, a
 
 En la pagina principal el usuario podra seleccion las sigueintes 2 opcines:
   
-![Opciones](/Imagenes/Opciones.jpg)
+![Opcines](/Imagenes/Opcines.jpg)
 
+En la primera opción **"consulta de stock"**  vamos a tener 3 cónsulas:
 
+  - poder consultar la planilla completa con el stock de cada material
+  - poder realizar una consulta de un material especifico
+  - poder consultar los materiales a comprar, se generaría un archivo compra.csv de compra sin ela gregado de los proveedores aun
 
