@@ -50,3 +50,6 @@ En la segunda opción **B** **"Compras"**  se se completa el archivo **compra.cs
 
 ![compras](/Imagenes/compras.jpg)
 
+## Autor
+
+  * **Franco Matias Ezequiel** - Repositorio github [MatiasEFranco](https://github.com/MatiasEFranco)
