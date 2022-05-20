@@ -34,7 +34,14 @@ En la primera opción **A** **"Realizar consultas"**  vamos a tener 4 opcines:
 ![ConsultasA](/Imagenes/ConsultasA.jpg)
 
   - 1- poder consultar la planilla completa con el stock de cada material
+ 
+ ![pstock](/Imagenes/pstock.jpg)
+
+
   - 2- poder realizar una consulta de un material especifico, en caso de que el material no cuente con una cantidad mayor a "0" en la planilla **"stoc.csv"** el            programam le indicara si lo queire agregar a la planilla de **"compras.csv"** y le pedira que cantidad desa comprar
+
+   ![mcomprar](/Imagenes/mcomprar.jpg)
+
   - 3- poder consultar los materiales a comprar, se generaría un archivo compra.csv de compra sin el agregado de los proveedores aun
   - 4- volver atras
 
