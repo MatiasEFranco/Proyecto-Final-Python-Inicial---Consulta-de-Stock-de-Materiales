@@ -38,11 +38,12 @@ En la primera opción **A** **"Realizar consultas"**  vamos a tener 4 opcines:
  ![pstock](/Imagenes/pstock.jpg)
 
 
-  - 2- poder realizar una consulta de un material especifico, en caso de que el material no cuente con una cantidad mayor a "0" en la planilla **"stoc.csv"** el            programam le indicara si lo queire agregar a la planilla de **"compras.csv"** y le pedira que cantidad desa comprar
+  - 2- poder realizar una consulta de un material especifico, en caso de que el material no cuente con una cantidad mayor a "0" en la planilla **"stock.csv"** el            programa le indicara si lo quiere agregar a la planilla de **"compras.csv"** y le pedira que cantidad desea comprar
+  - 
+  - 3- poder consultar los materiales a comprar, se generaría un archivo **compras.csv**  sin el agregado de los proveedores aun
 
-   ![mcomprar](/Imagenes/mcomprar.jpg)
+     ![mcomprar](/Imagenes/mcomprar.jpg)
 
-  - 3- poder consultar los materiales a comprar, se generaría un archivo compra.csv de compra sin el agregado de los proveedores aun
   - 4- volver atras
 
 En la segunda opción **B** **"Compras"**  se se completa el archivo **compra.csv** generado en la consulta para indicar que materiales se desean comprar y compara el precio de estos materiales en cada planilla de los proveedores cargados e indica a que proveedor conviene comprar el material porque tiene el precio mas bajo. Se completan los campos faltantes en el archivo **compras.csv** que son **"Proveedor"**, **"Precio Unitario"** y **"precio Toal"**
